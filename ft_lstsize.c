@@ -6,11 +6,11 @@
 /*   By: acastelb <acastelb@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/11/13 17:39:30 by acastelb          #+#    #+#             */
-/*   Updated: 2020/11/13 17:42:07 by acastelb         ###   ########.fr       */
+/*   Updated: 2020/11/21 11:45:37 by acastelb         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <libft.h>
+#include "libft.h"
 
 int	ft_lstsize(t_list *lst)
 {
